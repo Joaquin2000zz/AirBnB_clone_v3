@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
